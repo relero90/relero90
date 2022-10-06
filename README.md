@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Becca Roberts.
+- 👋 Hi, I’m Becca.
 - 👀 I’m interested in broadening my exposure to the world of full-stack web development.
 - 🌱 I’m currently learning React and GraphQL.
-- 💞️ I’m looking to collaborate with open-minded life-long learners.
+- 💞️ I’m looking to collaborate with other open-minded life-long learners.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/becca-roberts-a87729240/).
 
 <!---
