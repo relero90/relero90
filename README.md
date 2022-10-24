@@ -2,7 +2,7 @@
 - 👀 I’m interested in broadening my exposure to the world of full-stack web development.
 - 🌱 I’m currently learning React and GraphQL.
 - 💞️ I’m looking to collaborate with other open-minded life-long learners.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/becca-roberts-a87729240/).
+- 📫 Connect with me through my [Professional Portfolio](https://relero90.github.io/broberts-professional-portfolio/).
 
 <!---
 relero90/relero90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
