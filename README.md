@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Becca.
-- 👀 I’m interested in broadening my exposure to the world of full-stack web development.
-- 🌱 I’m currently learning about Cloudflare and PHP.
-- 💞️ I’m looking to collaborate with other open-minded life-long learners.
-- 📫 Connect with me through my [Professional Portfolio](https://relero90.github.io/broberts-professional-portfolio/).
+- 👀 I’m interested in elegant solutions to complex problems.
+- 🌱 I’m currently learning object-oriented PHP.
+- 💞️ I'm always excited to build something in React.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/becca-roberts/).
 
 <!---
 relero90/relero90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
