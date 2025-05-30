@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Becca.
 - 👀 I’m interested in elegant solutions to complex problems.
-- 🌱 I’m currently learning NextJS.
-- 💞️ I'm always excited to build something in React.
+- 🌱 I’m currently learning Django.
+- 💞️ I'm always excited to build something in NextJS.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/becca-roberts/).
 
 <!---
